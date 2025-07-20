@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/27a21dc6-d7ce-4bad-ba45-a3f44697dffe/resourceGroups/clock/providers/Microsoft.Web/sites/sun-rise-app",
+    "appService.deploySubpath": "dist"
+}
